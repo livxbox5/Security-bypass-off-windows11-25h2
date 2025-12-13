@@ -1,0 +1,38 @@
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
+
+.\\fix\_iwr.ps1
+
+powershell -ExecutionPolicy Bypass -Command "\& 'C:\\Users\\livxb\\OneDrive\\Desktop\\fix\_iwr.ps1'"
+
+
+
+
+
+инфо
+
+livxb -> свой пользователе или путь
+Выполните впервые очередь
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
+
+Открыть С**MD и свой путь укажите к файл fix\_iwr.ps1**
+C:\\Users\\livxb\\OneDrive\\Desktop\\fix\_iwr.ps1
+
+Перезапуск пк
+Restart-Computer -Force
+
+проверка
+
+
+
+\# Проверка 1
+
+Invoke-WebRequest https://google.com
+
+
+
+\# Проверка 2 через алиас
+
+iwr https://google.com
+
+
+
