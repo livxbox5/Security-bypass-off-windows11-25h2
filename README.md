@@ -1,4 +1,6 @@
 VirusTotal check 
+Disable ps securety.reg
+
 ```
 https://www.virustotal.com/gui/file/419d609a9ba98a96215b4a1769126c602d053e827ba0d25318e9e55e12d1fa81/summary
 ```
