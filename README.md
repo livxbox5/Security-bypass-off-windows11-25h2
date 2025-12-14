@@ -1,5 +1,8 @@
 VirusTotal check 
-```[https://www.virustotal.com/gui/file/42725f4b2b55216d9b21dc7c59c89f45d9b1a77f7ef988627f99cf4facea7256?nocache=1](https://www.virustotal.com/gui/file/419d609a9ba98a96215b4a1769126c602d053e827ba0d25318e9e55e12d1fa81/summary)``` Disable ps securety.reg
+```
+https://www.virustotal.com/gui/file/419d609a9ba98a96215b4a1769126c602d053e827ba0d25318e9e55e12d1fa81/summary
+```
+Disable ps securety.reg
 
 check fix_iwr.ps1
 ```
